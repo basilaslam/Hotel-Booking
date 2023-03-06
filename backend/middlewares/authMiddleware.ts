@@ -6,7 +6,7 @@ import User, { IUserRequest } from '../models/User';
 export const protect = asyncHandler (async(req: IUserRequest, res: Response, next: NextFunction) =>  {
 
     let token;
-
+ 
     if(req.headers.authorization && req.headers.authorization.startsWith("Bearer")) {
 
         try {            
