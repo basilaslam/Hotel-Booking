@@ -1,0 +1,491 @@
+[33mcommit 1f98c8c3ca36129494e8e9017b1938b8104f959a[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m)[m
+Author: Basil Aslam N P <64439076+basilaslam@users.noreply.github.com>
+Date:   Mon Mar 6 10:16:56 2023 +0000
+
+    bug fix
+
+[33mcommit 7598cd39af4b244b4eeb0266c974b53336dce2bf[m
+Author: Basil Aslam N P <64439076+basilaslam@users.noreply.github.com>
+Date:   Mon Mar 6 09:52:53 2023 +0000
+
+    last level setup
+
+[33mcommit b1c1f1cd3aa6364044360c27644b317704ecd6ed[m
+Author: Said Mounaim <saidmounaim00@gmail.com>
+Date:   Tue Feb 22 22:37:52 2022 +0100
+
+    Create README.md
+
+[33mcommit 32c89bf986868f1770ec7970d7f361870c29b799[m
+Author: Said Mounaim <saidmounaim00@gmail.com>
+Date:   Mon Feb 21 21:39:28 2022 +0100
+
+    Update User
+
+[33mcommit ba60f7207fb5649ba3816990fb076f942c87c218[m
+Author: Said Mounaim <saidmounaim00@gmail.com>
+Date:   Sun Feb 20 21:00:21 2022 +0100
+
+    Fix Issue Edit Room Screen & Add Admin User Edit Screen
+
+[33mcommit 0a50bb258e08f7d1d46a0bc3f0b7e4da9c769bb8[m
+Author: Said Mounaim <saidmounaim00@gmail.com>
+Date:   Sun Feb 20 14:31:10 2022 +0100
+
+    Add Admin Users Screen & Delete User
+
+[33mcommit e72aa677084b814c5a2cbc4c4d76a8941573baac[m
+Author: Said Mounaim <saidmounaim00@gmail.com>
+Date:   Sun Feb 20 13:32:43 2022 +0100
+
+    Delete User By ID Endpoint
+
+[33mcommit 1c28a0944537095db1846abd8bf58b9e854ad9bd[m
+Author: Said Mounaim <saidmounaim00@gmail.com>
+Date:   Sun Feb 20 13:28:38 2022 +0100
+
+    Update User By ID Endpoint
+
+[33mcommit eaaafb892941352a11438db98df7f5de614856b5[m
+Author: Said Mounaim <saidmounaim00@gmail.com>
+Date:   Sun Feb 20 13:20:48 2022 +0100
+
+    Get All Users Endpoint
+
+[33mcommit e8b515163ad37040c3a070651e308556b085e7cb[m
+Author: Said Mounaim <saidmounaim00@gmail.com>
+Date:   Sun Feb 20 13:03:20 2022 +0100
+
+    Add Admin Bookings Screen
+
+[33mcommit 33a1935be55ca331085f74cbb337a08c3a9a5c6a[m
+Author: Said Mounaim <saidmounaim00@gmail.com>
+Date:   Sun Feb 20 12:28:36 2022 +0100
+
+    Get All Bookings Endpoint
+
+[33mcommit 7d7738d9eed63810746f947d6f0b42a1c0f8ce7c[m
+Author: Said Mounaim <saidmounaim00@gmail.com>
+Date:   Sun Feb 20 12:16:42 2022 +0100
+
+    Delete Booking Endpoint
+
+[33mcommit 233c43943d78eb12c5d8281b54cdba3ccfcb3e88[m
+Author: Said Mounaim <saidmounaim00@gmail.com>
+Date:   Sat Feb 19 19:04:44 2022 +0100
+
+    Fix Issue Room Model & Update Room
+
+[33mcommit 720ede19de6700821a738b9adf14b866e596c103[m
+Author: Said Mounaim <saidmounaim00@gmail.com>
+Date:   Sat Feb 19 18:16:07 2022 +0100
+
+    Update Room Action & Reducer
+
+[33mcommit 94e1df5f7ef901b97f90a093ea8a69e078de214a[m
+Author: Said Mounaim <saidmounaim00@gmail.com>
+Date:   Sat Feb 19 18:07:50 2022 +0100
+
+    Add Edit Room Screen
+
+[33mcommit 29ba1106e64c5b5f9f55a3ba9c6e99498901d077[m
+Author: Said Mounaim <saidmounaim00@gmail.com>
+Date:   Wed Feb 16 22:29:45 2022 +0100
+
+    Delete Room
+
+[33mcommit 3cc4fb7625b4005121ca6cfcd69f1a38fac28011[m
+Author: Said Mounaim <saidmounaim00@gmail.com>
+Date:   Wed Feb 16 22:18:47 2022 +0100
+
+    Fix Issue Add Room
+
+[33mcommit 312677265a934fa306164edf77fe98733d43b681[m
+Author: Said Mounaim <saidmounaim00@gmail.com>
+Date:   Wed Feb 16 21:35:07 2022 +0100
+
+    Refactoring Code
+
+[33mcommit 3d55bd9a9b98f5ed0e496edc1153ca8135a861e2[m
+Author: Said Mounaim <saidmounaim00@gmail.com>
+Date:   Tue Feb 15 22:50:31 2022 +0100
+
+    Create Room Funcionality
+
+[33mcommit ed40e12c34dddb81d63f5421d288a4a09a198ccb[m
+Author: Said Mounaim <saidmounaim00@gmail.com>
+Date:   Tue Feb 15 22:17:16 2022 +0100
+
+    Fix Issue Multer To Upload Multiple & Add Upload Image Handler
+
+[33mcommit 0390572396f5e95411aa9ca1884bca8094dad315[m
+Author: Said Mounaim <saidmounaim00@gmail.com>
+Date:   Mon Feb 14 22:06:03 2022 +0100
+
+    Add Create Room Screen
+
+[33mcommit feee1b752a36ca6a67fdac6042486e20fb021164[m
+Author: Said Mounaim <saidmounaim00@gmail.com>
+Date:   Mon Feb 14 21:13:05 2022 +0100
+
+    Create Room Action & Reducer
+
+[33mcommit c40a4755c39b41c0c6891733f8ab397e578af714[m
+Author: Said Mounaim <saidmounaim00@gmail.com>
+Date:   Sun Feb 13 17:52:30 2022 +0100
+
+    Add Admin Rooms Screen
+
+[33mcommit 7c26637aa38514d85c7ab5bfc660df22161e08a7[m
+Author: Said Mounaim <saidmounaim00@gmail.com>
+Date:   Sun Feb 13 16:41:41 2022 +0100
+
+    Add Admin Middeleware
+
+[33mcommit 896c0eab53239828cf840cf34ad400481dabade9[m
+Author: Said Mounaim <saidmounaim00@gmail.com>
+Date:   Sun Feb 13 15:36:19 2022 +0100
+
+    Add Dropdown For Admin & Default Avatar
+
+[33mcommit 107758798e21deba250cef0aea27bf2012da47ef[m
+Author: Said Mounaim <saidmounaim00@gmail.com>
+Date:   Sun Feb 13 11:49:53 2022 +0100
+
+    Add Paginate Functionality
+
+[33mcommit 6e7d9ab5e6954fe3d6d795c64b4c1989e18903dc[m
+Author: Said Mounaim <saidmounaim00@gmail.com>
+Date:   Sat Feb 12 22:45:53 2022 +0100
+
+    Add Paginate To Room Endpoint
+
+[33mcommit 469959e23dcc6abe9972a19ad120fa9a5bab739a[m
+Author: Said Mounaim <saidmounaim00@gmail.com>
+Date:   Sat Feb 12 14:33:00 2022 +0100
+
+    Search Rooms On Frontend
+
+[33mcommit f601cb195b5721c703e44f9b85e1e563d0e85c02[m
+Author: Said Mounaim <saidmounaim00@gmail.com>
+Date:   Sat Feb 12 13:17:04 2022 +0100
+
+    Search Rooms Endpoint
+
+[33mcommit 2cbf840c69783fc9de084cf809f8c1c94b898da1[m
+Author: Said Mounaim <saidmounaim00@gmail.com>
+Date:   Sat Feb 12 12:06:19 2022 +0100
+
+    Add Search Rooms Component
+
+[33mcommit 5deb8af7119305d3faebd9f6266e09f2164c4969[m
+Author: Said Mounaim <saidmounaim00@gmail.com>
+Date:   Thu Feb 10 22:08:10 2022 +0100
+
+    Fetch My Bookings On My Booking Screen
+
+[33mcommit c5df1634a6fd042e002147b0b76d9d39643ca6fd[m
+Author: Said Mounaim <saidmounaim00@gmail.com>
+Date:   Thu Feb 10 21:49:28 2022 +0100
+
+    Get My Bookings Action & Reducer
+
+[33mcommit 4addf5666a21022f0307a5cf150b1d122b072619[m
+Author: Said Mounaim <saidmounaim00@gmail.com>
+Date:   Wed Feb 9 23:17:22 2022 +0100
+
+    Set Excluded Dates In Calendar
+
+[33mcommit 101fc6a5acdf24861e585b6b3542438ed88fa12a[m
+Author: Said Mounaim <saidmounaim00@gmail.com>
+Date:   Wed Feb 9 22:49:06 2022 +0100
+
+    Get Booked Dates Endpoint
+
+[33mcommit c40e8d6ecd5c2b50c1e842ca4152a7acc53ac9fa[m
+Author: Said Mounaim <saidmounaim00@gmail.com>
+Date:   Tue Feb 8 23:06:00 2022 +0100
+
+    Get all bookings current user Endpoint
+
+[33mcommit ec7a62a74c68641881a59fa9cfdc6dfa8de3bc6b[m
+Author: Said Mounaim <saidmounaim00@gmail.com>
+Date:   Tue Feb 8 22:55:31 2022 +0100
+
+    Fix Some Warnings
+
+[33mcommit 99214ecd7cf1cfa0cdb297114a20f424e18fc1ba[m
+Author: Said Mounaim <saidmounaim00@gmail.com>
+Date:   Tue Feb 8 22:27:12 2022 +0100
+
+    Add Payment With Paypal
+
+[33mcommit 46d464c6ac1fcc9287c82607f1d9451d2b913450[m
+Author: Said Mounaim <saidmounaim00@gmail.com>
+Date:   Mon Feb 7 22:30:57 2022 +0100
+
+    Add Paypal SDK
+
+[33mcommit 5800ae675b7740552cfd1f2e0aad730bd2c2b4b3[m
+Author: Said Mounaim <saidmounaim00@gmail.com>
+Date:   Mon Feb 7 22:24:09 2022 +0100
+
+    Install React Paypal Button V2 & Update Booking Model
+
+[33mcommit 4554eeee8863623bb1ea5701fcd063df0c0b5ad9[m
+Author: Said Mounaim <saidmounaim00@gmail.com>
+Date:   Sun Feb 6 17:18:04 2022 +0100
+
+    Refactor Code Room Details Screen
+
+[33mcommit 336856ec776f5700ebb721a59b51586d1312f804[m
+Author: Said Mounaim <saidmounaim00@gmail.com>
+Date:   Sun Feb 6 15:26:34 2022 +0100
+
+    Check Room Booking Dates On Frontend
+
+[33mcommit c84b7b4a4e5778becae35e3487eb7e6583b0218c[m
+Author: Said Mounaim <saidmounaim00@gmail.com>
+Date:   Sun Feb 6 14:38:37 2022 +0100
+
+    Check Room Booking Endpoint
+
+[33mcommit a1c5e5eb01504b723236347977058f1cda052983[m
+Author: Said Mounaim <saidmounaim00@gmail.com>
+Date:   Sun Feb 6 11:14:22 2022 +0100
+
+    New Booking Endpoint
+
+[33mcommit ba658d92bb22567b1a545c1e8196f651967f4f7b[m
+Author: Said Mounaim <saidmounaim00@gmail.com>
+Date:   Sun Feb 6 10:52:34 2022 +0100
+
+    Add Booking Model
+
+[33mcommit d63fbf0d5ee561a04f7f042c5bbe90acf0b237ac[m
+Author: Said Mounaim <saidmounaim00@gmail.com>
+Date:   Sun Feb 6 02:25:23 2022 +0100
+
+    Create Review On Frontend
+
+[33mcommit ba5ab73a4763b23e7fbdcdd757990b83e25a36a9[m
+Author: Said Mounaim <saidmounaim00@gmail.com>
+Date:   Sat Feb 5 19:00:16 2022 +0100
+
+    Fix Room Model Issue & Fetch Reviews On Frontend
+
+[33mcommit 155af63c99a8b91f5fc4df1a6b4caaace2ac271a[m
+Author: Said Mounaim <saidmounaim00@gmail.com>
+Date:   Sat Feb 5 17:32:35 2022 +0100
+
+    Create Room Review Endpoint
+
+[33mcommit 60eab01e490cae405a2fcf23f054a5c0b974a5fc[m
+Author: Said Mounaim <saidmounaim00@gmail.com>
+Date:   Sat Feb 5 16:35:01 2022 +0100
+
+    Install React Datepicker & Add Room Details Screen
+
+[33mcommit d0ba90467e3b35aa50d4d71501b6227289870d67[m
+Author: Said Mounaim <saidmounaim00@gmail.com>
+Date:   Sat Feb 5 14:36:42 2022 +0100
+
+    Room Details Action & Reducer
+
+[33mcommit 299ac9109447950171d1cb620d055c2e064c6ffe[m
+Author: Said Mounaim <saidmounaim00@gmail.com>
+Date:   Sat Feb 5 13:47:15 2022 +0100
+
+    Install Bootstrap Icons & Add Rating Component
+
+[33mcommit a5e812c93e2da828b0915255df29b0b13e52a912[m
+Author: Said Mounaim <saidmounaim00@gmail.com>
+Date:   Sat Feb 5 13:17:41 2022 +0100
+
+    Refactor Code & Fetch Rooms On Home Screen
+
+[33mcommit c21c9b655a8b352afeebe5fe03a5b4ba7e5983d1[m
+Author: Said Mounaim <saidmounaim00@gmail.com>
+Date:   Sat Feb 5 11:52:38 2022 +0100
+
+    Add Room Card
+
+[33mcommit 7ebe175ad6aa141595e51f6360f5a6c860d7bc97[m
+Author: Said Mounaim <saidmounaim00@gmail.com>
+Date:   Tue Feb 1 21:34:19 2022 +0100
+
+    Delete Room Endpoint
+
+[33mcommit cea57864b8971666b9927d01cd42a0f10ada98c6[m
+Author: Said Mounaim <saidmounaim00@gmail.com>
+Date:   Tue Feb 1 21:26:22 2022 +0100
+
+    Update Room Endpoint
+
+[33mcommit 07dabf6f2a3ef90258cf9094de370942ecd46258[m
+Author: Said Mounaim <saidmounaim00@gmail.com>
+Date:   Tue Feb 1 21:16:06 2022 +0100
+
+    Create Room Endpoint
+
+[33mcommit 77cc266fef5fe142516aa01b6714c11823ed9abe[m
+Author: Said Mounaim <saidmounaim00@gmail.com>
+Date:   Mon Jan 31 21:38:13 2022 +0100
+
+    Get Single Room Endpoint
+
+[33mcommit f78a478d2f9f321b28d3c94598d54306700899b1[m
+Author: Said Mounaim <saidmounaim00@gmail.com>
+Date:   Mon Jan 31 21:34:13 2022 +0100
+
+    Get All Rooms Endpoint
+
+[33mcommit 7b251489e2828c34df909b49d1ae130f9098a2bb[m
+Author: Said Mounaim <saidmounaim00@gmail.com>
+Date:   Mon Jan 31 21:26:39 2022 +0100
+
+    Add Room Model
+
+[33mcommit eaa867944dda669abe660542bf0d23027e0559d3[m
+Author: Said Mounaim <saidmounaim00@gmail.com>
+Date:   Sun Jan 30 20:30:18 2022 +0100
+
+    Fix Update Password Endpoint & Update Password Screen
+
+[33mcommit c2cdaf619e96528aa800a15f9daa5b251aee571a[m
+Author: Said Mounaim <saidmounaim00@gmail.com>
+Date:   Sun Jan 30 20:01:48 2022 +0100
+
+    Add User Avatar On Header Component
+
+[33mcommit 1a0b97b47081b268e18f60e9b73ed9a2c8776c44[m
+Author: Said Mounaim <saidmounaim00@gmail.com>
+Date:   Sun Jan 30 19:50:23 2022 +0100
+
+    Fix Update Profile
+
+[33mcommit dbc58e680281719428a55c1b1bac4f1e47a4ae54[m
+Author: Said Mounaim <saidmounaim00@gmail.com>
+Date:   Sun Jan 30 14:56:55 2022 +0100
+
+    Add Protect Route Component & Update Profile
+
+[33mcommit e65cdc9487cf02449edfae71e8c6ad675b4a7149[m
+Author: Said Mounaim <saidmounaim00@gmail.com>
+Date:   Sun Jan 30 11:58:43 2022 +0100
+
+    Add Register Functionality
+
+[33mcommit 7a27b6e63f263b6de2681675bc429280977d235a[m
+Author: Said Mounaim <saidmounaim00@gmail.com>
+Date:   Sun Jan 30 10:51:50 2022 +0100
+
+    Add Logout
+
+[33mcommit 858fe69db99026b9adcab33deccd30229a9530b3[m
+Author: Said Mounaim <saidmounaim00@gmail.com>
+Date:   Sun Jan 30 10:44:13 2022 +0100
+
+    Show User On Header
+
+[33mcommit 22badb2d02a63faa86e50cd36c2098269deda0d9[m
+Author: Said Mounaim <saidmounaim00@gmail.com>
+Date:   Sun Jan 30 00:44:40 2022 +0100
+
+    Add Login Functionality
+
+[33mcommit 321aefd802fe3a50e4b962c47f376f289c3d8a51[m
+Author: Said Mounaim <saidmounaim00@gmail.com>
+Date:   Sat Jan 29 22:01:18 2022 +0100
+
+    Add Login Screen
+
+[33mcommit 554b7a062b0ae001d06ed7e5ead928d2b94a4a67[m
+Author: Said Mounaim <saidmounaim00@gmail.com>
+Date:   Sat Jan 29 21:43:00 2022 +0100
+
+    Add Header Component
+
+[33mcommit 98a65a9ee27ca9b1130d85c49c294d06a1b027e5[m
+Author: Said Mounaim <saidmounaim00@gmail.com>
+Date:   Sat Jan 29 21:07:08 2022 +0100
+
+    Install Bootstrap & Setup Routing
+
+[33mcommit 52c242ac47a419c46f440813829237e9ab94ea48[m
+Author: Said Mounaim <saidmounaim00@gmail.com>
+Date:   Sat Jan 29 20:52:23 2022 +0100
+
+    Setup Redux
+
+[33mcommit 580d84035f14cad9a45f651f18ddbbff515a8d7c[m
+Author: Said Mounaim <saidmounaim00@gmail.com>
+Date:   Sat Jan 29 18:11:02 2022 +0100
+
+    Setup Frontend With React TypeScript
+
+[33mcommit 26891c4d38ac6e1bc786161ea48cd87ca046f80d[m
+Author: Said Mounaim <saidmounaim00@gmail.com>
+Date:   Fri Jan 28 20:43:03 2022 +0100
+
+    Update Password Endpoint
+
+[33mcommit 4645352f12209f8f12bf6b568913e9146fbf026f[m
+Author: Said Mounaim <saidmounaim00@gmail.com>
+Date:   Fri Jan 28 20:33:19 2022 +0100
+
+    Update Profile Endpoint
+
+[33mcommit be334fe409374192c9821b4a3aec568c48d12c91[m
+Author: Said Mounaim <saidmounaim00@gmail.com>
+Date:   Fri Jan 28 20:11:49 2022 +0100
+
+    Add Protect Middleware
+
+[33mcommit 1947eba4f4b25a45662409d27b4385c1c8888e3d[m
+Author: Said Mounaim <saidmounaim00@gmail.com>
+Date:   Fri Jan 28 19:37:24 2022 +0100
+
+    Upload Endpoint & Fix Register Controller
+
+[33mcommit 72124b9982f5928c2ee40c5ee8ad21a6b6b631f5[m
+Author: Said Mounaim <saidmounaim00@gmail.com>
+Date:   Thu Jan 27 20:08:42 2022 +0100
+
+    Install JWT & Generate Token
+
+[33mcommit e81445ad4bbf24caee57257111adf490b39f2a5f[m
+Author: Said Mounaim <saidmounaim00@gmail.com>
+Date:   Thu Jan 27 19:53:59 2022 +0100
+
+    Add Login Endpoint
+
+[33mcommit 7dd91625fdceb8e2e8f70638a98ead24f8b40e59[m
+Author: Said Mounaim <saidmounaim00@gmail.com>
+Date:   Thu Jan 27 19:36:46 2022 +0100
+
+    Hashing Password
+
+[33mcommit e2c2e2bb5a5da7b27b3fdaccad56cf7038433c2c[m
+Author: Said Mounaim <saidmounaim00@gmail.com>
+Date:   Thu Jan 27 19:25:26 2022 +0100
+
+    Add Error Handler Middleware & Register Endpoint
+
+[33mcommit 038fc5b7f6595019e21cc955194dbf1c69e9c9a2[m
+Author: Said Mounaim <saidmounaim00@gmail.com>
+Date:   Wed Jan 26 20:16:45 2022 +0100
+
+    Add User Model
+
+[33mcommit c5e304d2716bc90ec42231b3381dcd75e74de1e4[m
+Author: Said Mounaim <saidmounaim00@gmail.com>
+Date:   Wed Jan 26 19:54:32 2022 +0100
+
+    Install Mongoose & Connect To Database
+
+[33mcommit 4cf43f26b9ab762d0ca26ab9e83eb86ed0bd10bb[m
+Author: Said Mounaim <saidmounaim00@gmail.com>
+Date:   Wed Jan 26 19:36:33 2022 +0100
+
+    Setup Project
